@@ -1,0 +1,11 @@
+Comandos:
+
+Instalar dependencias -> yarn install (necesario)
+
+Iniciar en modo dev -> yarn dev
+Generar un build -> yarn build
+Iniciar con build -> yarn start
+
+Correr migraciones:
+
+yarn prisma migrate dev

@@ -1,0 +1,16 @@
+
+
+ACCESS_TOKEN_SECRET     YF4WeIfuNjsQbpjWBi3DIqLO9gctFAfm
+CLEARDB_DATABASE_URL    mysql://b7727d51f914cd:da30271b@us-cdbr-east-05.cleardb.net/heroku_c8c732a262890a6?reconnect=true
+DATABASE_URL      mysql://b7727d51f914cd:da30271b@us-cdbr-east-05.cleardb.net/heroku_c8c732a262890a6?reconnect=true
+DB_CHARSET     utf8mb4
+DB_HOST        us-cdbr-east-05.cleardb.net
+DB_NAME      heroku_c8c732a262890a6
+DB_PASS      da30271b
+DB_USER       b7727d51f914cd
+HOST_MAIL      soporteayni2022@gmail.com
+REFRESH_TOKEN_SECRET      mLNlhnIQ9P9ta7HwtXNrFgdIPsuIUpq3
+SMTP_HOST       smtp.gmail.com
+SMTP_PASSWORD      Ayni1234
+SMTP_PORT      465
+SMTP_USER       soporteayni2022@gmail.com
